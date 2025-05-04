@@ -19,12 +19,12 @@
 		{"id":"baca5bc5e0e9f8ad","type":"text","text":"# Танковый расчет","x":2020,"y":-1240,"width":250,"height":60},
 		{"id":"c2844f6bd671d63f","type":"file","file":"files/InGame ТР.png","x":2020,"y":-1140,"width":560,"height":315},
 		{"id":"1854d699665ef85c","type":"file","file":"files/Pause ТР.png","x":2020,"y":-775,"width":560,"height":246},
+		{"id":"f17317ef30eaa051","type":"file","file":"files/GameEnd ETG.png","x":-248,"y":-300,"width":420,"height":236},
 		{"id":"151d50555bae8000","type":"file","file":"files/PosPick МБ.png","x":2540,"y":-340,"width":459,"height":265},
 		{"id":"cd6ecd0ebd5525af","type":"text","text":"# Морской бой","x":2020,"y":-440,"width":250,"height":60},
 		{"id":"b36cdd3bc4b60e0e","type":"file","file":"files/MainMenu МБ.png","x":2020,"y":-340,"width":459,"height":265},
 		{"id":"ed98d2a7ad2cb793","type":"file","file":"files/InGame МБ.png","x":2020,"y":-40,"width":488,"height":280},
-		{"id":"1c82c52ecfce38ad","type":"file","file":"files/MainMenu ТР.png","x":2660,"y":-1140,"width":581,"height":327},
-		{"id":"f17317ef30eaa051","type":"file","file":"files/GameEnd ETG.png","x":-248,"y":-300,"width":420,"height":236}
+		{"id":"1c82c52ecfce38ad","type":"file","file":"files/MainMenu ТР.png","x":2660,"y":-1140,"width":581,"height":327}
 	],
 	"edges":[]
 }

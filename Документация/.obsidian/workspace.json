@@ -11,10 +11,17 @@
             "id": "ed6b92fc958fec0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "canvas",
+              "state": {
+                "file": "files/UX_UI Reference.canvas",
+                "viewState": {
+                  "x": 597.5971038934504,
+                  "y": -514.827032946092,
+                  "zoom": -1.2981706905397137
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "UX_UI Reference"
             }
           }
         ]
@@ -164,11 +171,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5f4e0bf19e6fa728",
+  "active": "ed6b92fc958fec0e",
   "lastOpenFiles": [
+    "Общая документация/Game Design Document GDD.md",
     "Общая документация/План реализации RoadMap.md",
     "Общая документация/Концепт-документ.md",
-    "Общая документация/Game Design Document GDD.md",
     "Общая документация/Technical Design Document TDD.md",
     "files/UX_UI Reference.canvas",
     "files/Игровой цикл.pdf",
