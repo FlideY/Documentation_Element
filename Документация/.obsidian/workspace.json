@@ -11,17 +11,14 @@
             "id": "ed6b92fc958fec0e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "files/UX_UI Reference.canvas",
-                "viewState": {
-                  "x": 597.5971038934504,
-                  "y": -514.827032946092,
-                  "zoom": -1.2981706905397137
-                }
+                "file": "Общая документация/Game Design Document GDD.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "UX_UI Reference"
+              "icon": "lucide-file",
+              "title": "Game Design Document GDD"
             }
           }
         ]
@@ -173,11 +170,11 @@
   },
   "active": "ed6b92fc958fec0e",
   "lastOpenFiles": [
+    "files/UX_UI Reference.canvas",
     "Общая документация/Game Design Document GDD.md",
     "Общая документация/План реализации RoadMap.md",
     "Общая документация/Концепт-документ.md",
     "Общая документация/Technical Design Document TDD.md",
-    "files/UX_UI Reference.canvas",
     "files/Игровой цикл.pdf",
     "files/GameLoop.jpg",
     "[[Игровой.md",
