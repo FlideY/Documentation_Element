@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "files/UX_UI Reference.canvas",
+                "file": "Общая документация/files/UX_UI Reference.canvas",
                 "viewState": {
                   "x": 1061.5420370523807,
-                  "y": -673.028421980215,
-                  "zoom": -0.6668601158492533
+                  "y": -259.61375750622386,
+                  "zoom": -1.6405986631743876
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -171,27 +171,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ed6b92fc958fec0e",
+  "active": "5f4e0bf19e6fa728",
   "lastOpenFiles": [
     "Общая документация/Game Design Document GDD.md",
-    "files/ВинтEnemy.png",
-    "files/ГайкаEnemy.png",
-    "files/ПластинаEnemy.png",
-    "files/Окружность.png",
+    "Общая документация/files/ВинтEnemy.png",
+    "Общая документация/files/ГайкаEnemy.png",
+    "Общая документация/files/ПластинаEnemy.png",
+    "Общая документация/files/Окружность.png",
     "Общая документация/Technical Design Document TDD.md",
-    "files/UX_UI Reference.canvas",
+    "Общая документация/files/UX_UI Reference.canvas",
     "Общая документация/План реализации RoadMap.md",
     "Общая документация/Концепт-документ.md",
     "files/Игровой цикл.pdf",
-    "files/GameLoop.jpg",
+    "Общая документация/files/GameLoop.jpg",
     "[[Игровой.md",
-    "files/Пример вопроса.png",
+    "Общая документация/files/Пример вопроса.png",
     "().md",
-    "files/ГОСТ_B.ttf",
-    "files/ГОСТ_A.ttf",
-    "files/GOST_A.ttf",
-    "files/MainMenu IG.png",
-    "files/InGame IG.png",
+    "Общая документация/files/ГОСТ_B.ttf",
+    "Общая документация/files/ГОСТ_A.ttf",
+    "Общая документация/files/GOST_A.ttf",
+    "Общая документация/files/MainMenu IG.png",
+    "Общая документация/files/InGame IG.png",
     "Без названия.md",
     "ГОСТ_A.ttf",
     "ГОСТ_B.ttf",
