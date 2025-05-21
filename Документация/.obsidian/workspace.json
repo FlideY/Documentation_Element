@@ -11,17 +11,14 @@
             "id": "ed6b92fc958fec0e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Общая документация/files/UX_UI Reference.canvas",
-                "viewState": {
-                  "x": 1061.5420370523807,
-                  "y": -259.61375750622386,
-                  "zoom": -1.6405986631743876
-                }
+                "file": "Общая документация/Game Design Document GDD.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "UX_UI Reference"
+              "icon": "lucide-file",
+              "title": "Game Design Document GDD"
             }
           }
         ]
@@ -171,27 +168,28 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5f4e0bf19e6fa728",
+  "active": "ed6b92fc958fec0e",
   "lastOpenFiles": [
+    "Общая документация/files/Пример_вопроса.png",
     "Общая документация/Game Design Document GDD.md",
+    "Общая документация/files/UX_UIReference.canvas",
+    "Общая документация/files/MainMenu_IG.png",
+    "Общая документация/files/InGame_IG.png",
+    "Общая документация/files/PosPick МБ.png",
     "Общая документация/files/ВинтEnemy.png",
     "Общая документация/files/ГайкаEnemy.png",
     "Общая документация/files/ПластинаEnemy.png",
     "Общая документация/files/Окружность.png",
     "Общая документация/Technical Design Document TDD.md",
-    "Общая документация/files/UX_UI Reference.canvas",
     "Общая документация/План реализации RoadMap.md",
     "Общая документация/Концепт-документ.md",
     "files/Игровой цикл.pdf",
     "Общая документация/files/GameLoop.jpg",
     "[[Игровой.md",
-    "Общая документация/files/Пример вопроса.png",
     "().md",
     "Общая документация/files/ГОСТ_B.ttf",
     "Общая документация/files/ГОСТ_A.ttf",
     "Общая документация/files/GOST_A.ttf",
-    "Общая документация/files/MainMenu IG.png",
-    "Общая документация/files/InGame IG.png",
     "Без названия.md",
     "ГОСТ_A.ttf",
     "ГОСТ_B.ttf",
