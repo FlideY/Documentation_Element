@@ -11,14 +11,17 @@
             "id": "ed6b92fc958fec0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Общая документация/Game Design Document GDD.md",
-                "mode": "source",
-                "source": false
+                "file": "files/UX_UI Reference.canvas",
+                "viewState": {
+                  "x": 1061.5420370523807,
+                  "y": -673.028421980215,
+                  "zoom": -0.6668601158492533
+                }
               },
-              "icon": "lucide-file",
-              "title": "Game Design Document GDD"
+              "icon": "lucide-layout-dashboard",
+              "title": "UX_UI Reference"
             }
           }
         ]
@@ -170,8 +173,8 @@
   },
   "active": "ed6b92fc958fec0e",
   "lastOpenFiles": [
-    "files/ВинтEnemy.png",
     "Общая документация/Game Design Document GDD.md",
+    "files/ВинтEnemy.png",
     "files/ГайкаEnemy.png",
     "files/ПластинаEnemy.png",
     "files/Окружность.png",
